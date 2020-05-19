@@ -6,4 +6,4 @@ auteur: Test
 
 # Hello TEST
 
-[Index](./index.html)
+Lorem ipsum
