@@ -8,4 +8,4 @@ auteur: Diren
 
 {{ page.auteur }}
 
-[test](./test.html)
+C'est un conte ...
