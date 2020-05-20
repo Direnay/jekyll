@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: base
 title: Diren la Conteuse
 auteur: Diren
 ---
